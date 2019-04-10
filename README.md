@@ -12,4 +12,4 @@ SA-Logic: a Python application that performs Sentiment Analysis.
 
 We finally use Kubernetes for scalability by using load balancing between the various pods.
 
-![Image1](img/1)
+![Image1](img/1.png)
